@@ -1,0 +1,33 @@
+Week, Team Abbrev, Team Name, Opponent Abrrev, Opponent Name, Home, Quarterly Points For, Total Points For, Quarterly Points Against, Total Points Against, Line, O/U, Line Cover?, O/U?
+1, CHI, Bears, GB, Packers, true, 3 0 0 0, 3, 0 7 0 3, 10, CHI -3.0,47, false, Under
+1, GB, Packers, CHI, Bears, false, 0 7 0 3, 10, 3 0 0 0, 3, CHI -3.0,47, true, Under
+1, CLE, Browns, TEN, Titans, true, 6 0 7 0, 13, 3 9 10 21, 43, CLE -5.5,44, false, Over
+1, TEN, Titans, CLE, Browns, false, 3 9 10 21, 43, 6 0 7 0, 13, CLE -5.5,44, true, Over
+1, MIA, Dolphins, BAL, Ravens, true, 0 10 0 0, 10, 21 21 10 7, 59, BAL -7.0,41, false, Over
+1, BAL, Ravens, MIA, Dolphins, false, 21 21 10 7, 59, 0 10 0 0, 10, BAL -7.0,41, true, Over
+1, MIN, Vikings, ATL, Falcons, true, 14 7 7 0, 28, 0 0 0 12, 12, MIN -3.5,47, true, Under
+1, ATL, Falcons, MIN, Vikings, false, 0 0 0 12, 12, 14 7 7 0, 28, MIN -3.5,47, false, Under
+1, NYJ, Jets, BUF, Bills, true, 6 0 10 0, 16, 0 0 3 14, 17, NYJ -2.5,42, false, Under
+1, BUF, Bills, NYJ, Jets, false, 0 0 3 14, 17, 6 0 10 0, 16, NYJ -2.5,42, true, Under
+1, PHI, Eagles, WSH, Redskins, true, 0 7 14 11, 32, 10 10 0 7, 27, PHI -10.0,45, false, Over
+1, WSH, Redskins, PHI, Eagles, false, 10 10 0 7, 27, 0 7 14 11, 32, PHI -10.0,45, true, Over
+1, CAR, Panthers, LAR, Rams, true, 0 3 10 14, 27, 0 13 10 7, 30, LAR -1.5,50, false, Over
+1, LAR, Rams, CAR, Panthers, false, 0 13 10 7, 30, 0 3 10 14, 27, LAR -1.5,50, true, Over
+1, JAX, Jaguars, KC, Chiefs, true, 7 6 0 13, 26, 17 6 7 10, 40, KC -3.5,49, false, Over
+1, KC, Chiefs, JAX, Jaguars, false, 17 6 7 10, 40, 7 6 0 13, 26, KC -3.5,49, true, Over
+1, LAC, Chargers, IND, Colts, true, 7 10 7 0 6, 30, 0 6 10 8 0, 24, LAC -6.0,45, Push, Over
+1, IND, Colts, LAC, Chargers, false, 0 6 10 8 0, 24, 7 10 7 0 6, 30, LAC -6.0,45, Push, Over
+1, SEA, Seahawks, CIN, Bengals, true, 0 14 0 7, 21, 3 14 0 3, 20, SEA -9.0,45, false, Under
+1, CIN, Bengals, SEA, Seahawks, false, 3 14 0 3, 20, 0 14 0 7, 21, SEA -9.0,45, true, Under
+1, DAL, Cowboys, NYG, Giants, true, 7 14 14 0, 35, 7 0 3 7, 17, DAL -7.0,45, true, Over
+1, NYG, Giants, DAL, Cowboys, false, 7 0 3 7, 17, 7 14 14 0, 35, DAL -7.0,45, false, Over
+1, ARI, Cardinals, DET, Lions, true, 0 3 3 18 3, 27, 0 17 0 7 3, 27, DET -3.0,45, true, Over
+1, DET, Lions, ARI, Cardinals, false, 0 17 0 7 3, 27, 0 3 3 18 3, 27, DET -3.0,45, false, Over
+1, TB, Buccaneers, SF, 49ers, true, 0 7 7 3, 17, 3 3 14 11, 31, TB -1.5,51, false, Under
+1, SF, 49ers, TB, Buccaneers, false, 3 3 14 11, 31, 0 7 7 3, 17, TB -1.5,51, true, Under
+1, NE, Patriots, PIT, Steelers, true, 7 13 10 3, 33, 0 0 3 0, 3, NE -5.5,49, true, Under
+1, PIT, Steelers, NE, Patriots, false, 0 0 3 0, 3, 7 13 10 3, 33, NE -5.5,49, false, Under
+1, NO, Saints, HOU, Texans, true, 0 3 14 13, 30, 0 14 7 7, 28, NO -7.0,52, false, Over
+1, HOU, Texans, NO, Saints, false, 0 14 7 7, 28, 0 3 14 13, 30, NO -7.0,52, true, Over
+1, OAK, Raiders, DEN, Broncos, true, 7 7 0 10, 24, 0 0 6 10, 16, DEN -2.5,43, true, Under
+1, DEN, Broncos, OAK, Raiders, false, 0 0 6 10, 16, 7 7 0 10, 24, DEN -2.5,43, false, Under
